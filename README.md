@@ -7,9 +7,9 @@
 
 ### 페이지 구조
 
-home
--beef
----stew
+home<br>
+-beef<br>
+---stew<br>
 
 
 <br><br>
@@ -21,7 +21,7 @@ home
 
 ### 페이지 구조
 
-home
--beef
--stew
+home<br>
+-beef<br>
+-stew<br>
 
